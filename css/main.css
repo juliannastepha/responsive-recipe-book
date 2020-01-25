@@ -1,0 +1,77 @@
+html {
+  font-family: "Proxima Nova", sans-serif;
+  color: #000;
+}
+
+.logo {
+  max-width: 50px;
+  margin: 0 auto;
+}
+
+.nav {
+  text-decoration: none;
+  color: #000;
+}
+
+.nav:hover {
+  color: #cc1b20;
+}
+
+.nav-align {
+  text-align: center;
+}
+
+.header-border-bottom {
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: #000;
+}
+
+.h1-link:hover {
+  color: #cc1b20;
+}
+
+.red {
+  color: #cc1b20;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:focus {
+  outline: 3px solid #000;
+}
+
+.nav a:focus {
+  outline: 3px solid #000;
+}
+
+p {
+  font-family: "Adobe Text Pro", serif;
+}
+
+footer {
+  border-top-style: solid;
+  border-width: 1px;
+  border-color: #000;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.border {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000;
+}
+
+.ingredient-list {
+  font-family: "Adobe Text Pro", serif;
+}
+
+.serving {
+  font-weight: 600;
+}
