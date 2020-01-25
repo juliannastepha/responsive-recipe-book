@@ -90,3 +90,7 @@ footer {
   color: #fff;
   border-color: #cc1b20;
 }
+
+.subtitle, .delicious {
+  font-weight: 500;
+}
